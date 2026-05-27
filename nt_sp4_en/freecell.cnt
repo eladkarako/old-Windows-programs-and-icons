@@ -1,0 +1,6 @@
+:Base freecell.hlp>proc4
+:Title FreeCell Help
+:Index FreeCell Help=freecell.hlp
+1 Object of Freecell=FREECELL_OBJECT
+1 Playing FreeCell=FREECELL_PLAY
+1 Strategy and shortcuts=freecell_hints

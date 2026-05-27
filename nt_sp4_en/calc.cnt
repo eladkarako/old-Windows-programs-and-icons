@@ -1,0 +1,12 @@
+:Base calc.hlp>proc4
+:Title Calculator Help
+:Index Calculator Help =calc.hlp
+1 Performing Calculations
+2 Performing a simple calculation =CALC_SIMPLE
+2 Performing a statistical calculation =CALC_STATISTICS
+2 Performing a scientific calculation =CALC_SCIENTIFIC
+2 Converting values to other number systems =CALC_NUMBER_SYSTEM
+1 Tips and Tricks
+2 Finding out what a Calculator button does=CALC_BUTTONS
+2 Working with numbers stored in memory=CALC_MEMORY
+2 Using keyboard equivalents =CALC_KEYBOARD

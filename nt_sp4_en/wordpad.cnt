@@ -1,0 +1,39 @@
+:Base wordpad.hlp>proc4
+:Title WordPad Help
+:Index WordPad Help =wordpad.hlp
+:Link Windows.hlp
+1 Working with Documents
+2 Creating a new document=WRIPAD_CREATE_DOCUMENT
+2 Saving changes to a document=WRIPAD_SAVE_FILE
+2 Opening a document=WRIPAD_OPEN_DOC
+1 Setting Up the WordPad Window
+2 Displaying the toolbar=COMMON_TOOLBAR_ON_OFF@common.hlp>proc4
+2 Displaying the format bar=WRIPAD_FORMAT_BAR
+2 Displaying the ruler=WRIPAD_RULER
+2 Displaying the status bar=COMMON_STATUS_BAR_ON_OFF@common.hlp>proc4
+1 Working with Text
+2 Copying information between documents=COMMON_USE_INFO@common.hlp>proc4
+2 Moving information between documents=COMMON_MOVE_INFO@common.hlp>proc4
+2 Undoing your last action=WRIPAD_EDIT_UNDO
+2 Deleting text=WRIPAD_CUT_INFO
+2 Searching for text=WRIPAD_LOCATE_TEXT
+2 Searching for and replacing text=WRIPAD_REPLACE_TEXT
+2 Inserting the current date and time =WRIPAD_DATE_TIME
+1 Formatting Text
+2 Changing how text wraps on your screen=WRIPAD_WORD_WRAP
+2 Creating a bullet list=WRIPAD_INSERT_BULLET
+2 Changing a font type, style, or size=WRIPAD_FORMAT_FONT
+2 Formatting a paragraph=WRIPAD_FORMAT_PARAGRAPH
+2 Setting tabs=WRIPAD_FORMAT_TABS
+1 Printing
+2 Printing a document=WINDOWS_PRINT_PRINT_DOC@common.hlp>proc4
+2 Seeing a page before you print it=WRIPAD_PRINT_PREVIEW
+2 Setting page margins=WRIPAD_PRINT_PAGESU
+2 Changing printers and printing options=WRIPAD_PRINT_SETUP
+2 Troubleshooting printing problems =PTS_WHAT_WRONG@windows.hlp>proc4
+1 Creating Connections with Other Documents
+2 Editing linked objects=WRIPAD_EDIT_LINKS
+2 Embedding or linking an object into WordPad=WRIPAD_INSERT_NEW_OBJECT
+2 Copying information to another document =COMMON_USE_INFO@common.hlp>proc4
+2 Moving information to another document =COMMON_MOVE_INFO@common.hlp>proc4
+2 Linking information to another document =COMMON_LINK_INFO@common.hlp>proc4
