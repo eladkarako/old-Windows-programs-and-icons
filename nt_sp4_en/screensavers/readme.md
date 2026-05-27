@@ -1,22 +1,22 @@
-<img width="300" src="scrnsave.scr" /><br/>
+<img width="300" src="scrnsave.png" /><br/>
 
-<img width="300" src="ss3dfo.scr" /><br/>
+<img width="300" src="ss3dfo.png" /><br/>
 
-<img width="300" src="ssbezier.scr" /><br/>
+<img width="300" src="ssbezier.png" /><br/>
 
-<img width="300" src="ssflwbox.scr" /><br/>
+<img width="300" src="ssflwbox.png" /><br/>
 
-<img width="300" src="ssmarque.scr" /><br/>
+<img width="300" src="ssmarque.png" /><br/>
 
-<img width="300" src="ssmaze.scr" /><br/>
+<img width="300" src="ssmaze.png" /><br/>
 
-<img width="300" src="ssmyst.scr" /><br/>
+<img width="300" src="ssmyst.png" /><br/>
 
-<img width="300" src="sspipes.scr" /><br/>
+<img width="300" src="sspipes.png" /><br/>
 
-<img width="300" src="ssstars.scr" /><br/>
+<img width="300" src="ssstars.png" /><br/>
 
-<img width="300" src="sstext3d.scr" /><br/>
+<img width="300" src="sstext3d.png" /><br/>
 
 screensavers are able to store some configuration in the registry, they are 100% exe with extra functionality...
 
